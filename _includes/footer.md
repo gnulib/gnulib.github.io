@@ -1,1 +1,1 @@
- &copy; Integratingfactor.com 2015
+ &copy; 2015 &middot; Integratingfactor.com
