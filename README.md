@@ -5,4 +5,4 @@ This is the source repository for personal blogs of [**Amit Bhadoria**](https://
 
 
 ## About
-[**Amit's blogs**](https://gnulib.integratingfactor.com) are based upon discussions and observations with fellow engineers, industry leaders and strategists in the silicon valley.
+[**Amit's blogs**](http://gnulib.integratingfactor.com) are based upon discussions and observations with fellow engineers, industry leaders and strategists in the silicon valley.
